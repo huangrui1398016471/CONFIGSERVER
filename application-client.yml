@@ -1,5 +1,5 @@
 server:
-  port: 7500         #当前服务的端口号
+  port: 7000         #当前服务的端口号
   
   
 eureka:
